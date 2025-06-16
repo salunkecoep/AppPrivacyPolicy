@@ -1,23 +1,10 @@
-<<<<<<< HEAD
-Privacy Policy
-
-We value your privacy. Our app does not collect personal information without your consent. 
-We may use analytics tools to improve performance. Data, if collected, is used only to enhance user experience and is not shared with third parties. You can contact us to request data deletion.
-
-For more info, email: salunkecoep@gmail.com
-Mobile: +91 9270447951
-
-=======
 Privacy Policy for Apps by Precious Technology
 Developer Name: Precious Technology
 Email: salunkecoep@gmail.com
 Contact Number: +91 9270447951
 
-This privacy policy applies to the following apps published on Google Play Store by Amol Salunke:
+This privacy policy applies to the following apps published on Google Play Store by Precious Technology:
 Bhagavad Gita in Marathi Audio
-Bhagavad Gita in English Audio
-Income Expense Manager
-Manache Shlok | श्री मनाचे श्लोक | Audio, English
 
 1. Personal Information
 Our apps do not collect or store any personally identifiable information from users. We do not ask for name, email, phone number, or any personal data.
@@ -51,4 +38,3 @@ Precious Technology
 📧 salunkecoep@gmail.com
 📞 +91 9270447951
 
->>>>>>> 0178c4f (Update privacy policy with app and developer details)
